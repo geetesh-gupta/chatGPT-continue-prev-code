@@ -5,12 +5,9 @@ Note: Make sure you a previous response is present and is must have a code block
 # Usage
 A new button named `Continue` will be added to the webpage. Click on the `Continue` button to get the further output stream.
 
-# Install
-
-## Prerequisites
+# Setup
 
 Install **Tampermonkey** **（[Chrome](https://www.tampermonkey.net/)** / **[Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)** / **[Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN)）**
-
 
 ## UserScript
 
